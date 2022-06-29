@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/curso-react.git/static/css/main.b473b407.css",
+    "main.js": "/curso-react.git/static/js/main.d797a5dc.js",
+    "index.html": "/curso-react.git/index.html",
+    "static/media/delete.svg": "/curso-react.git/static/media/delete.331149da222541bc87c25bf8d775a070.svg",
+    "static/media/check.svg": "/curso-react.git/static/media/check.fa4fb594b16385306a04b9c87c0feb55.svg",
+    "main.b473b407.css.map": "/curso-react.git/static/css/main.b473b407.css.map",
+    "main.d797a5dc.js.map": "/curso-react.git/static/js/main.d797a5dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b473b407.css",
+    "static/js/main.d797a5dc.js"
+  ]
+}
