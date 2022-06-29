@@ -13,7 +13,7 @@ function TodoSearch(){
     return(
         <input 
             className="TodoSearch" 
-            placeholder="Buscar tareas" 
+            placeholder="Buscar tareas pendientes" 
             value={searchValue}
             onChange={onSearchValueChange}    
         />        
