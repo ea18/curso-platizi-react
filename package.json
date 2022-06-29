@@ -1,5 +1,5 @@
 {
-  "homepage": "https://ea18.github.io/curso-react.git",
+  "homepage": "http://ea18.github.io/curso-platizi-react",
   "name": "curso-react",
   "version": "0.1.0",
   "private": true,
@@ -17,7 +17,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
+    "predeploy": "npm run build && echo 'http://ea18.github.io/curso-platizi-react' > ./build/CNAME",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
